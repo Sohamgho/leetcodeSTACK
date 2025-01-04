@@ -1,3 +1,6 @@
+/*
+link of question----> https://leetcode.com/problems/3sum/description/?envType=problem-list-v2&envId=array
+*/
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
